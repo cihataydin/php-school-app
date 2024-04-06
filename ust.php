@@ -1,0 +1,3 @@
+<br /><CENTER><font size="5">
+B&#304;LG&#304;SAYAR TEKNOLOJ&#304;LER&#304; VE PROGRAMLAMA B&Ouml;L&Uuml;M&Uuml; <BR />
+&Ouml;&#286;RENC&#304; TAK&#304;P OTOMASYONU</font> </CENTER>
